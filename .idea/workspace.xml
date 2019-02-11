@@ -11,111 +11,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" column="125" selection-start-line="27" selection-start-column="125" selection-end-line="27" selection-end-column="125" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPatchTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentDeleteTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentGetTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPostTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="33" selection-start-line="19" selection-start-column="8" selection-end-line="36" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java">
+        <entry file="file://$PROJECT_DIR$/RestAssured/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="226" column="60" selection-start-line="226" selection-start-column="60" selection-end-line="226" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
+            <state relative-caret-position="-1998" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/student/model/Student.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.3.0/rest-assured-3.3.0.jar!/io/restassured/RestAssured.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#791#792#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#873#874#0" expanded="true" />
-                <element signature="e#903#904#0" expanded="true" />
-                <element signature="e#955#956#0" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/student/base/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -128,6 +36,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -147,17 +58,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="25" />
-    <option name="width" value="1855" />
-    <option name="height" value="1055" />
+    <option name="x" value="1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,16 +78,80 @@
             <path>
               <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
               <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -185,6 +159,7 @@
             </path>
             <path>
               <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -193,6 +168,28 @@
             </path>
             <path>
               <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonpath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonpath" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -202,6 +199,7 @@
             </path>
             <path>
               <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -213,6 +211,7 @@
             <path>
               <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
               <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -220,15 +219,22 @@
               <item name="students" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548607908534" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548627527957" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -381,9 +387,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="25" width="1855" height="1055" extended-state="6" />
+    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24654505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2379936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -415,6 +422,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPutTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPatchTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentDeleteTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentGetTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/student/model/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/student/base/TestBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPostTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/loggingexamples/LoggingResponseValues.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/loggingexamples/LoggingRequestValues.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.3.0/rest-assured-3.3.0.jar!/io/restassured/RestAssured.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -422,123 +440,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPutTest.java">
+    <entry file="file://$PROJECT_DIR$/RestAssured/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/student/model/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
-            <element signature="e#903#904#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/student/base/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentDeleteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentGetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/loggingexamples/LoggingResponseValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="62" column="33" lean-forward="true" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="125" selection-start-line="27" selection-start-column="125" selection-end-line="27" selection-end-column="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPatchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/loggingexamples/LoggingRequestValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="112" column="36" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPostTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="33" selection-start-line="19" selection-start-column="8" selection-end-line="36" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="226" column="60" selection-start-line="226" selection-start-column="60" selection-end-line="226" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-1998" />
       </provider>
     </entry>
   </component>
