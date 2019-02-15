@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5cabbb6-7c83-423b-be2b-6d0f51a85aaf" name="Default Changelist" comment="" />
+    <list default="true" id="d5cabbb6-7c83-423b-be2b-6d0f51a85aaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_osgi_2_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_javax_activation_0_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_4_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_4_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/assertions/examples/AssertionsExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/authspringsecurity/examples/FormAuthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/authspringsecurity/examples/FormAuthWithCsrf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/checkresponsetime/examples/VerifyingTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/filedownloads/examples/FileDownLoadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fileupload/examples/FileUpLoadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/filters/examples/FilterExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jsonassertt/examples/JsonAssertExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jsoup/examples/JsoupExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/proxy/examples/ProxyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/responseextraction/rootpath/RootPathExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/responseextraction/rootpath/RootPathExamples2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/soap/examples/HolidayWsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/softasserts/examples/SoftAssertionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/specification/examples/RequestSpecificationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/specification/examples/ResponseSpecificationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/RestAssured.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RestAssured.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,19 +60,118 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RestAssured/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPostTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1998" />
+            <state relative-caret-position="195">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.3.0/rest-assured-3.3.0.jar!/io/restassured/RestAssured.class">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/authspringsecurity/examples/FormAuthExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            <state relative-caret-position="448">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/specification/examples/ResponseSpecificationExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="59" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jsoup/examples/JsoupExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="118" column="59" selection-start-line="118" selection-start-column="59" selection-end-line="118" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2808#2816#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/authspringsecurity/examples/FormAuthWithCsrf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/student/base/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/checkresponsetime/examples/VerifyingTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/soap/examples/HolidayWsExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/proxy/examples/ProxyExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,7 +192,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/student/model/Student.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/student/base/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/students/test/StudentPostTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/students/test/StudentGetTest.java" />
@@ -54,187 +201,142 @@
         <option value="$PROJECT_DIR$/src/test/java/com/students/loggingexamples/LoggingRequestValues.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/students/loggingexamples/LoggingResponseValues.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/assertions/examples/AssertionsExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/softasserts/examples/SoftAssertionsExample.java" />
+        <option value="$PROJECT_DIR$/file.txt" />
+        <option value="$PROJECT_DIR$/diforder.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jsonassertt/examples/JsonAssertExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/responseextraction/rootpath/RootPathExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/responseextraction/rootpath/RootPathExamples2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/specification/examples/RequestSpecificationExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/specification/examples/ResponseSpecificationExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/filters/examples/FilterExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/filedownloads/examples/FileDownLoadExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fileupload/examples/FileUpLoadExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/checkresponsetime/examples/VerifyingTime.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/soap/examples/HolidayWsExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/proxy/examples/ProxyExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/authspringsecurity/examples/FormAuthExample.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jsoup/examples/JsoupExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/authspringsecurity/examples/FormAuthWithCsrf.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="students-application" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="473" />
+    <option name="y" value="152" />
+    <option name="width" value="1845" />
+    <option name="height" value="791" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="student" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="student" type="462c0819:PsiDirectoryNode" />
               <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="student" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jsonpath" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jsonpath" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
+              <item name="Rest_Assured_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rest_Assured_Course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="loggingexamples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestAssured" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssured" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548627527957" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550203858828" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest_Assured_Course_Paypal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -253,79 +355,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SearchJsonPathExample">
-    <configuration name="LoggingRequestValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FormAuthWithCsrf">
+    <configuration name="FormAuthExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.students.loggingexamples.*" />
+          <option name="PATTERN" value="com.authspringsecurity.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.students.loggingexamples" />
-      <option name="MAIN_CLASS_NAME" value="com.students.loggingexamples.LoggingRequestValues" />
+      <option name="PACKAGE_NAME" value="com.authspringsecurity.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.authspringsecurity.examples.FormAuthExample" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoggingRequestValues.test003" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FormAuthExample.getAllStudents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.students.loggingexamples.*" />
+          <option name="PATTERN" value="com.authspringsecurity.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.students.loggingexamples" />
-      <option name="MAIN_CLASS_NAME" value="com.students.loggingexamples.LoggingRequestValues" />
-      <option name="METHOD_NAME" value="test003" />
+      <option name="PACKAGE_NAME" value="com.authspringsecurity.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.authspringsecurity.examples.FormAuthExample" />
+      <option name="METHOD_NAME" value="getAllStudents" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoggingRequestValues.test004" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FormAuthWithCsrf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.students.loggingexamples.*" />
+          <option name="PATTERN" value="com.authspringsecurity.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.students.loggingexamples" />
-      <option name="MAIN_CLASS_NAME" value="com.students.loggingexamples.LoggingRequestValues" />
-      <option name="METHOD_NAME" value="test004" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoggingResponseValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.students.loggingexamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.students.loggingexamples" />
-      <option name="MAIN_CLASS_NAME" value="com.students.loggingexamples.LoggingResponseValues" />
+      <option name="PACKAGE_NAME" value="com.authspringsecurity.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.authspringsecurity.examples.FormAuthWithCsrf" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchJsonPathExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JsoupExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jsonpath.examples.*" />
+          <option name="PATTERN" value="com.jsoup.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.jsonpath.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.jsonpath.examples.SearchJsonPathExample" />
+      <option name="PACKAGE_NAME" value="com.jsoup.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.jsoup.examples.JsoupExamples" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.proxy.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.proxy.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.proxy.examples.ProxyExample" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -333,11 +434,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SearchJsonPathExample" />
-        <item itemvalue="JUnit.LoggingResponseValues" />
-        <item itemvalue="JUnit.LoggingRequestValues" />
-        <item itemvalue="JUnit.LoggingRequestValues.test004" />
-        <item itemvalue="JUnit.LoggingRequestValues.test003" />
+        <item itemvalue="JUnit.FormAuthWithCsrf" />
+        <item itemvalue="JUnit.JsoupExamples" />
+        <item itemvalue="JUnit.FormAuthExample" />
+        <item itemvalue="JUnit.FormAuthExample.getAllStudents" />
+        <item itemvalue="JUnit.ProxyExample" />
       </list>
     </recent_temporary>
   </component>
@@ -355,42 +456,50 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchJsonPathExample - 2019.01.27 at 10h 40m 17s.xml">
-      <configuration name="SearchJsonPathExample" configurationId="JUnit" />
+    <history-entry file="JsoupExamples - 2019.02.14 at 22h 28m 36s.xml">
+      <configuration name="JsoupExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchJsonPathExample - 2019.01.27 at 10h 49m 45s.xml">
-      <configuration name="SearchJsonPathExample" configurationId="JUnit" />
+    <history-entry file="JsoupExamples - 2019.02.14 at 22h 29m 16s.xml">
+      <configuration name="JsoupExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchJsonPathExample - 2019.01.27 at 11h 13m 57s.xml">
-      <configuration name="SearchJsonPathExample" configurationId="JUnit" />
+    <history-entry file="JsoupExamples - 2019.02.14 at 22h 40m 18s.xml">
+      <configuration name="JsoupExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchJsonPathExample - 2019.01.27 at 11h 17m 41s.xml">
-      <configuration name="SearchJsonPathExample" configurationId="JUnit" />
+    <history-entry file="JsoupExamples - 2019.02.14 at 22h 45m 16s.xml">
+      <configuration name="JsoupExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchJsonPathExample - 2019.01.27 at 11h 19m 04s.xml">
-      <configuration name="SearchJsonPathExample" configurationId="JUnit" />
+    <history-entry file="JsoupExamples - 2019.02.14 at 22h 46m 08s.xml">
+      <configuration name="JsoupExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchJsonPathExample - 2019.01.27 at 11h 19m 52s.xml">
-      <configuration name="SearchJsonPathExample" configurationId="JUnit" />
+    <history-entry file="JsoupExamples - 2019.02.14 at 22h 50m 45s.xml">
+      <configuration name="JsoupExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchJsonPathExample - 2019.01.27 at 11h 31m 22s.xml">
-      <configuration name="SearchJsonPathExample" configurationId="JUnit" />
+    <history-entry file="JsoupExamples - 2019.02.14 at 22h 50m 59s.xml">
+      <configuration name="JsoupExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchJsonPathExample - 2019.01.27 at 11h 31m 53s.xml">
-      <configuration name="SearchJsonPathExample" configurationId="JUnit" />
+    <history-entry file="JsoupExamples - 2019.02.14 at 22h 51m 19s.xml">
+      <configuration name="JsoupExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchJsonPathExample - 2019.01.27 at 11h 37m 50s.xml">
-      <configuration name="SearchJsonPathExample" configurationId="JUnit" />
+    <history-entry file="FormAuthWithCsrf - 2019.02.14 at 23h 02m 33s.xml">
+      <configuration name="FormAuthWithCsrf" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchJsonPathExample - 2019.01.27 at 11h 39m 34s.xml">
-      <configuration name="SearchJsonPathExample" configurationId="JUnit" />
+    <history-entry file="FormAuthWithCsrf - 2019.02.14 at 23h 10m 07s.xml">
+      <configuration name="FormAuthWithCsrf" configurationId="JUnit" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="25" width="1855" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2379936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23770039" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -400,15 +509,15 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40064794" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6368159" weight="0.4004329" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32937366" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4997236" weight="0.32900432" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4997236" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49695966" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3631841" side_tool="true" weight="0.4004329" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4405749" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -416,23 +525,50 @@
       <window_info anchor="right" id="Maven-2 Build" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32946378" />
       <window_info anchor="right" x="0" y="0" width="413" height="855" id="Documentation" order="8" side_tool="true" weight="0.32946378" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23770039" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6368159" visible="true" weight="0.4004329" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4997236" weight="0.32900432" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4997236" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49695966" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3631841" side_tool="true" visible="true" weight="0.4004329" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4405749" weight="0.32900432" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven-2 Build" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32946378" />
+      <window_info anchor="right" x="0" y="0" width="413" height="855" id="Documentation" order="8" side_tool="true" weight="0.32946378" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPutTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPatchTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentDeleteTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentGetTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/student/model/Student.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/student/base/TestBase.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPostTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/students/loggingexamples/LoggingResponseValues.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/students/loggingexamples/LoggingRequestValues.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java" />
+    <entry file="file://$PROJECT_DIR$/RestAssured/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.3.0/rest-assured-3.3.0.jar!/io/restassured/RestAssured.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -440,10 +576,236 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RestAssured/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/assertions/examples/AssertionsExmaples.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.3.0/rest-assured-3.3.0-sources.jar!/io/restassured/RestAssured.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1998" />
+        <state relative-caret-position="4470">
+          <caret line="342" column="13" selection-start-line="342" selection-start-column="13" selection-end-line="342" selection-end-column="13" />
+        </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/softasserts/examples/SoftAssertionsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jsonassertt/examples/JsonAssertExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/responseextraction/rootpath/RootPathExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/filters/examples/FilterExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/responseextraction/rootpath/RootPathExamples2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diforder.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="191" selection-start-column="191" selection-end-column="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jsonpath/examples/SearchJsonPathExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="146" column="23" selection-start-line="140" selection-start-column="8" selection-end-line="148" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/filedownloads/examples/FileDownLoadExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fileupload/examples/FileUpLoadExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/assertions/examples/AssertionsExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="37" selection-start-line="21" selection-start-column="8" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/student/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/specification/examples/RequestSpecificationExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/specification/examples/ResponseSpecificationExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="59" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/student/base/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/checkresponsetime/examples/VerifyingTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/soap/examples/HolidayWsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/proxy/examples/ProxyExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/students/test/StudentPostTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jsoup/examples/JsoupExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="118" column="59" selection-start-line="118" selection-start-column="59" selection-end-line="118" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2808#2816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/authspringsecurity/examples/FormAuthExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/authspringsecurity/examples/FormAuthWithCsrf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
